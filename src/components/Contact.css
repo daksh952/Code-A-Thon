@@ -1,0 +1,25 @@
+.contact{
+    min-height: 400px;
+    text-align: center;
+    margin-top: -50px;
+    background-color: rgb(216, 250, 250);
+}
+.c1{
+    margin-top: 20px;
+}
+.text{
+    width: 500px;
+    height:100px ;
+    background: none;
+    font-size: 15px;
+}
+.btn2{
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: 600;
+    width: 150px;
+    height: 50px;
+    background: green;
+    border: 0px;
+    border-radius: 10px;
+}

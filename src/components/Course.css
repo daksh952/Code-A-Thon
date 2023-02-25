@@ -1,0 +1,22 @@
+.hlo{
+    max-height: 220px;
+    margin-top: 0px;
+    width: 100%;
+    display:grid;
+
+}
+.pp{
+    margin-top: 30px;
+    height: 150px;
+    margin-left: 300px;
+}
+.pp1{
+    height: 150px;
+    width: 200px;
+    margin-left: 100px;
+}
+.head{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 40px;
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+.user{
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    margin-top: 30px;
+}
+.user1{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 130px;
+
+}
+.imgs{
+    display: inline;
+}
+.user2{
+    font-size: 25px;
+    font-weight: 10;
+    color: orange;
+}
+.user p{
+    float: left;
+    display: inline;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(13, 13, 62);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn{
+    font-size: 20px;
+    font-weight: 600;
+    width: 200px;
+    margin-left: 250px;
+    padding: 10px;
+    border-radius:15px ;
+    background-color: green;
+    cursor: pointer;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
